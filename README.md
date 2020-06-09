@@ -64,6 +64,7 @@ Create a place where I can share:
 **Infra**:
 
 - NPM for packages
+- Github as a repository and tag version
 - Netlify to host client
 - CDN for assets
 - Heroku for Node.js App
