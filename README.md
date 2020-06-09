@@ -2,14 +2,14 @@
 
 Here I want to share my thoughts and vision about Front-End Development, Usability and maybe my strugles with Back-End Development.
 
-## ROADMAP
+## Roadmap
 
 - [x] Define de Objective
 - [x] Define the Project Scope
 - [x] Define the Tech Stack
 - [ ] Define the Backlog Tasks
 
-### Objective
+# Objective
 
 Create a place where I can share:
 
@@ -19,7 +19,7 @@ Create a place where I can share:
 - A place to be notate
 - Add a live chat to instantly talk
 
-### Project Scope
+# Project Scope
 
 **Audience**:
 
@@ -37,20 +37,23 @@ Create a place where I can share:
 - Ipad tablet
 - Mobile Devices with minimum 320 device-width
 
-### Tech Stack
+# Tech Stack
 
 **Front-End**:
 
-- Javascript ES6+
+- Typescript
 - CSS Grid / Flexbox
 - BEM + ITCSS
 - SEO with JSON+LD
 - WAI-ARIA for acessibility
 - PWA?
 - AMP?
+- Webpack
+- SASS
 
 **Back-End**:
 
+- Typescript
 - NodeJS + ExpressJS
 - MongoDB + Mongoose
 
@@ -66,6 +69,7 @@ Create a place where I can share:
 - Heroku for Node.js App
 - MongoDB Atlas for DB
 - Circlus CI
+- Sentry or Bugsnag for monitoring
 
 **QA**:
 
@@ -77,11 +81,11 @@ Create a place where I can share:
 - Figma for wireframing, prototype and design
 
 
-### Task Manager
+# Task Manager
 
 - Github Projects
 
-#### Author
+# Author
 
 <table>
   <tbody>
@@ -97,7 +101,7 @@ Create a place where I can share:
 </table>
 
 
-#### License
+# License
 
 MIT © Daniel Simão da Silva
 
