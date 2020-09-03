@@ -41,7 +41,7 @@ Create a place where I can share:
 
 **Front-End**:
 
-- Typescript
+- Angular/Typescript
 - CSS Grid / Flexbox
 - BEM + ITCSS
 - SEO with JSON+LD
@@ -74,8 +74,8 @@ Create a place where I can share:
 
 **QA**:
 
-- Jest for unit/integration tests
-- Cypress for end-to-end tests
+- Karma+Jasmine for unit/integration tests
+- Protractror for end-to-end tests
 
 **UX/UI Design**
 
